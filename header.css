@@ -43,4 +43,13 @@
   }
   
   
-  
+  /* Mobile Responsiveness */
+  @media screen and (max-width: 768px) {
+    .main-header {
+      padding: 10px;
+    }
+    .main-header nav li {
+      display: block;
+      margin-bottom: 10px;
+    }
+  }
