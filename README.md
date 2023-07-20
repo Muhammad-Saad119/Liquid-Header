@@ -8,3 +8,9 @@ In "header.liquid," design the header using HTML, CSS, and Liquid syntax. For si
 
 Step 3: Add CSS Styles
 Create a new CSS file, let's call it "header.css," and link it to your Shopify theme. Implement the CSS styles for the header, ensuring color contrast and responsiveness:
+
+Step 4: Include JavaScript (Optional)
+If you need any JavaScript functionality for your header, create a new JavaScript file (e.g., "header.js") and link it to your Shopify theme.
+
+Step 5: Add Liquid Include
+In your main Shopify theme file (e.g., "theme.liquid" or "header-section.liquid"), include the header by using Liquid's {% include 'header' %} tag.
