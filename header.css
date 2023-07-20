@@ -1,0 +1,46 @@
+/* header.css */
+
+.main-header {
+    background-color: #333; /* Adjust the color to your preference */
+    color: #fff; /* Adjust the color to your preference */
+    padding: 15px;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  
+  .main-header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .main-header nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .main-header nav li:last-child {
+    margin-right: 0;
+  }
+  
+  .main-header nav li a {
+    color: #fff; /* Adjust the color to your preference */
+    text-decoration: none;
+  }
+  
+  .cta {
+    display: inline-block;
+  }
+  
+  .cta-button {
+    background-color: #ff5722; /* Adjust the color to your preference */
+    color: #fff; /* Adjust the color to your preference */
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  
+  
